@@ -12,9 +12,12 @@ The aim of this challenge was to create a calendar app, where you can put your d
 3. Once you added the text, click the button on the right to "Save" your event.
 4. Share your calendar to show your availabilty!
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+To visit the deployed website follow this link: https://rodrigorol.github.io/mycalendar/
 
-![alt text](assets/images/screenshot.png)
+The following is a screenshot of the depolyed app:
+
+<img width="1440" alt="Screenshot 2023-04-17 at 9 38 59 PM" src="https://user-images.githubusercontent.com/126302497/232664999-c4a562e6-faeb-46df-b8ec-be2a76ff148e.png">
+
 
 ## Credits
 
